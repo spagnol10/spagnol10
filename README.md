@@ -15,6 +15,7 @@ I'm coursing software engineer in collage and coding to improve my skills. Futur
       <img align="center" alt="Gno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
       <img align="center" alt="Gno-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt= Gno-React heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" alt= Gno-React heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
       <img align="center" alt= Gno-tailwindcss heigh="30" width= "40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
       <img align="center" alt= Gno-Java heigh="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt= Gno-Spring heigh="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
