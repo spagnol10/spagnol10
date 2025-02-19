@@ -14,6 +14,7 @@ I'm coursing software engineer in collage and coding to improve my skills. Futur
       <img align="center" alt= Gno-Java heigh="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img align="center" alt= Gno-Spring heigh="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       <img align="center" alt= Gno-Postgresql heigh="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-plain.svg" />
+      <img align="center" alt= Gno-Postgresql heigh="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
       <img align="center" alt= Gno-Postgresql heigh="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   </div>
 
