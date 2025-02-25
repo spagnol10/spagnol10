@@ -14,7 +14,9 @@ I'm currently pursuing a degree in Software Engineering and coding to improve my
 ## 🏆 Awards and Recognitions
 
 ![Award 1](https://github.com/user-attachments/assets/a3d76c1c-37a5-470b-a425-ce5b7d395a79)  
-![Award 2](https://github.com/user-attachments/assets/161cad33-1838-4b42-995f-4d3f84fe6203)  
+![Award 2](https://github.com/user-attachments/assets/161cad33-1838-4b42-995f-4d3f84fe6203) 
+![image](https://github.com/user-attachments/assets/196733b0-6efa-4326-8f81-a8c0cf55381d)
+
 
 ---
 
