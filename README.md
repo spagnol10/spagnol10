@@ -4,13 +4,6 @@ I'm currently pursuing a degree in Software Engineering and coding to improve my
 
 ---
 
-## 🚀 Building a New Startup - **FeiraFácil**
-
-![FeiraFácil Home](https://github.com/user-attachments/assets/b47372d4-5f63-49db-a815-420b36a5c32d)  
-*FeiraFácil is a management system designed to simplify and optimize processes for local markets and fairs.*
-
----
-
 ## 🏆 Awards and Recognitions
 
 ![Award 1](https://github.com/user-attachments/assets/a3d76c1c-37a5-470b-a425-ce5b7d395a79)  
